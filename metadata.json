@@ -1,0 +1,6 @@
+{
+  "name": "SEO Agent - Autonomous AI SEO Platform",
+  "description": "Autonomous AI SEO platform governed by your team. 18 integrated modules with risk-tiered self-healing, real-time command center, and tamper-proof audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
